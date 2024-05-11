@@ -1,6 +1,4 @@
-//
-// Created by wyatt on 5/11/24.
-//
+
 #include <iostream>
 #include <string>
 #include <vector>
