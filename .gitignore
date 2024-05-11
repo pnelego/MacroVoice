@@ -1,0 +1,12 @@
+/cmake-build-debug
+cmake ..
+CMakeLists.txt.user
+CMakeCache.txt
+Makefile
+Testing
+CMakeFiles
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
